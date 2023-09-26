@@ -41,6 +41,20 @@ The Railway Enquiry & Management System offers the following features:
 - **Manage Contact Details**:
   - Users can store and manage their contact information for future bookings.
 
+
+## Screenshots : Main Screen - Options
+
+![main ui](https://github.com/mohit-thakur09/railway-reservation-system/assets/82665617/52f5a86d-5a6c-4d21-8ca5-6bab33bfe5e0)
+
+## Train Details:
+
+![train details ui](https://github.com/mohit-thakur09/railway-reservation-system/assets/82665617/454729e1-3937-49c5-b54c-cb9fe887e75e)
+
+## Passengers Ticket Details
+
+![passangers details](https://github.com/mohit-thakur09/railway-reservation-system/assets/82665617/bbc7fda7-a778-4a4f-89cd-0d023236b6fd)
+
+
 ## Getting Started
 
 Follow these steps to run the Railway Enquiry & Management System:
